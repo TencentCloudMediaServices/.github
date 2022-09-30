@@ -1,6 +1,6 @@
 _[简体中文](README.zh.md) | English_
 
-![Media Service Logo](doc/images/all-scene.jpg)
+![Media Service Logo](https://github.com/LiteAV-TUIKit/.github/blob/main/profile/doc/images/all-scene.jpg)
 
 ## Tencent Cloud Media Services 
 
