@@ -1,5 +1,5 @@
 _[English](README.md) | 简体中文_
-![媒体服务标志](doc/images/all-scene.jpg)
+![Tencent Cloud Media Service Logo](https://github.com/LiteAV-TUIKit/.github/blob/main/profile/doc/images/all-scene.jpg)
 
 ## 腾讯云视立方
 
